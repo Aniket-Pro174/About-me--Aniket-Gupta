@@ -9,11 +9,11 @@ body {
     background-color: #f4f4f4;
     color: #333;
     line-height: 1.6;
-    margin: 20px;
+    margin: 10px;
 }
 
 .container {
-    max-width: 800px;
+    max-width: 1000px;
     margin: 0 auto;
     background-color: white;
     padding: 20px;
@@ -54,5 +54,5 @@ footer {
     text-align: center;
     margin-top: 20px;
     font-size: 14px;
-    color: #777;
+    color: red;
 }
